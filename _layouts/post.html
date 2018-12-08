@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article id="post">
+  <header style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('{{ page.image | prepend:site.baseurl }}'); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('{{ page.image | prepend:site.baseurl }}'); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('{{ page.image | prepend:site.baseurl }}'); background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('{{ page.image | prepend:site.baseurl }}');">
+    <h1>{{ page.title }}</h1>
+  </header>
+  <section class="wrapper{% if page.options contains 'minihead' %} minihead{% endif %} style5">
+    <div class="inner{% if page.options contains 'fullwidth' %} fullwidth{% endif %}">
+      <span id="post-date">{{ page.date  | date: "%-d %B %Y" }}</span><hr
+        style="margin-top:3px;" />
+      {{ content }}
+    </div>
+  </section>
+</article>

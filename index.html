@@ -10,7 +10,7 @@ layout: landing
 								<li><a href="#" class="button special">Activate</a></li>
 							</ul> -->
 						</div>
-						<a href="#one" class="more scrolly">Learn More</a>
+						<a href="#one" class="more scrolly">Continue</a>
 					</section>
 
 				<!-- One -->
@@ -26,7 +26,7 @@ layout: landing
 										{% if socloc[0] == 'email' %}
 											<li><a target="_blank" href="mailto:{{ socloc[1] }}" class="icon fa-envelope major style1"><span class="label">E-mail</span></a></li>
 										{% else %}
-											<li><a target="_blank" href="{{ socloc [1] }}" class="icon fa-{{ socloc[0] }} major style{% cycle 1, 2, 3 %}"><span class="label">{{ socloc[0] }}</span></a></li>
+											<li><a target="_blank" href="{{ socloc [1] }}" class="icon fa-{{ socloc[0] }} major color-social-{{ socloc[0] }}"><span class="label">{{ socloc[0] }}</span></a></li>
 										{% endif %}
 									{% endif %}
 								{% endfor %}
@@ -39,11 +39,16 @@ layout: landing
 					<section id="two" class="wrapper alt style2">
 						{%- for post in site.posts -%}
 						<section class="spotlight">
-							<div class="image"><img src="{% if post.image %}{{ post.image }}{% else %}images/pic01.jpg{% endif %}" alt="" /></div>
+							<div class="image">
+								<a href="{{ post.url | relative_url }}">
+									<img src="{% if post.image %}{{ post.image }}{% else %}images/pic01.jpg{% endif %}" alt="" />
+								</a>
+							</div>
 							<div class="content">
 								<h2>{{ post.title | escape }}</h2>
 								{%- if site.show_excerpts -%}
 								<p>{{ post.excerpt }}</p>
+								<a href="{{ post.url | relative_url }}">Continue reading...</a>
 								{%- endif -%}
 							</div>
 						</section>

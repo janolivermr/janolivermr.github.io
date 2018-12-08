@@ -11,14 +11,15 @@ first_published: 2018 # if migrating another site, the year of your first publis
 email: janolivermr@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://janolivermr.com" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title:output_ext
 
 lang: en-us # used in HTML lang attributes
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: I'm a web developer by day, home automator by night and traveller on weekends. 
-  text: _You will find a collection of articles about my travels, as well as some information about my home automation and occasionally something about the web develoment world as well._
+  title: Welcome 
+  text: _My name is Jan and I'm a web developer, traveller and home automator._
 # - displayed at the bottom
 closing-head: 
 closing-para: 
@@ -26,9 +27,9 @@ closing-para:
 show_excerpts: true
 
 social:
-  twitter: https://twitter.com/janolivermr
-  github: https://github.com/janolivermr
-  #linkedin-square: https://linkedin.com/in/<username>
+  #twitter: https://twitter.com/janolivermr
+  #github: https://github.com/janolivermr
+  linkedin-square: https://www.linkedin.com/in/jan-stolle/
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
