@@ -18,6 +18,6 @@ I looked into this and weighed my options. With the extra cost for the bus ticke
 the extra time required, the further chance for transport problems and finally,
 the comfort of a proper airport, I decided to turn my back on low cost carriers.
 
-I haven't looked back since. I'm rather tall and finally have proper legroom now.
+I haven't looked back since. I'm rather tall and enjoy having the extra legroom on the plane.
 The airlines serve free food and drinks on board, there are also airline lounges to take advantage off.
 Eventually, the cost difference on its own is not even that big anymore.
