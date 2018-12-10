@@ -10,7 +10,7 @@ owner: Jan Stolle # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: janolivermr@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://janolivermr.com" # the base hostname & protocol for your site
+url: "https://janolivermr.com" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title:output_ext
 
 lang: en-us # used in HTML lang attributes
