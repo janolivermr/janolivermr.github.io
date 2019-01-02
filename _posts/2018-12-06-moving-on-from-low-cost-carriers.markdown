@@ -2,7 +2,7 @@
 layout: post
 title:  "Moving on from low cost carriers"
 date:   2018-12-06 18:32:03 +0100
-categories: jekyll update
+categories: travel ryanair lufthansa
 image: /images/ryanair.jpg
 ---
 Since I started living abroad, low cost carriers - especially Ryanair - have been
