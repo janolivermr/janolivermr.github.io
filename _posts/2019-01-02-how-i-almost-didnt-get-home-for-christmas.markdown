@@ -6,10 +6,10 @@ categories: travel lufthansa
 image: /images/departureboard.jpg
 ---
 December 21st was a normal day like any other for me. I had just finished packing
-up all my things for my flight to visit my family over Christmas. I figured that
-leaving apartment around two hours and 45 minutes before the flight was about right.
-10 minutes before I wanted to leave I received a text message from Lufthansa:
-"We apologize that your flight has been cancelled."
+up all my things for my flight to visit my family over Christmas, readyto leave my
+apartment around two hours and 45 minutes before the flight. Ten minutes before
+I wanted to leave I received a text message from Lufthansa: "We apologize that your
+flight has been cancelled."
 
 At the time I was actually just messaging with my family about my arrival time
 and them picking me up at the airport. My original schedule had me going from
