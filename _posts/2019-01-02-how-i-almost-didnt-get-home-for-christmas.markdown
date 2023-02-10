@@ -4,6 +4,7 @@ title:  "How I almost didn't get Home for Christmas"
 date:   2019-01-02 17:37:03 +0100
 categories: travel lufthansa
 image: /images/departureboard.jpg
+published: false
 ---
 December 21st was a normal day like any other for me. I had just finished packing
 up all my things for my flight to visit my family over Christmas, readyto leave my

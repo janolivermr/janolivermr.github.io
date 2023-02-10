@@ -4,10 +4,10 @@
 # Site settings
 title: "@janolivermr"
 description: |
-  Travel, Software Engineering and Home Automation
+  Software Engineer
 owner: Jan Stolle # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
-email: janolivermr@gmail.com
+email: hello@janolivermr.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janolivermr.com" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title:output_ext
@@ -18,7 +18,7 @@ lang: en-GB # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Hi there, I'm Jan! 
-  text: I'm a Software Engineer, who loves to Travel and tinker with Home Automation.
+  text: I'm a Software Engineer, who loves to Travel and go to the Theatre.
 # - displayed at the bottom
 closing-head: 
 closing-para: 

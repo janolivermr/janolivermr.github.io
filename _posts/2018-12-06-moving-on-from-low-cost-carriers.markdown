@@ -4,6 +4,7 @@ title:  "Moving on from low cost carriers"
 date:   2018-12-06 18:32:03 +0100
 categories: travel ryanair lufthansa
 image: /images/ryanair.jpg
+published: false
 ---
 Since I started living abroad, low cost carriers - especially Ryanair - have been
 incredibly useful to me and I used them frequently. However, in May 2018 I moved
